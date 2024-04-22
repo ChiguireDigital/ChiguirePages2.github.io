@@ -18,7 +18,7 @@
     --bg-color: #111;
 
     --big-font: 4.5rem;
-    --h2-font: 2.3rem;
+    --h2-font: 2rem;
     --p-font: 1.1rem;
 }
 
@@ -190,7 +190,7 @@ section{
 }
 
 .about-text-death h2{
-    font-size: 5rem;
+    font-size: 2rem;
     display: flex;
     justify-content: flex-start;
 }
